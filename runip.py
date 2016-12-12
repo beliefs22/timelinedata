@@ -1,6 +1,8 @@
 import pulltimelineip
 
+
 def main():
+    directories = pulltimelineip.
     # pulltimelineip.getipdata.getLabs()
     pulltimelineip.getipdata.getMeds()
     # pulltimelineip.getipdata.getVitals()

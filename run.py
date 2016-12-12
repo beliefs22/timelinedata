@@ -1,7 +1,7 @@
 import pulltimeline
 
 def main():
-    pulltimeline.getipdata.getData()
+    pulltimeline.getdata.getData()
 
 if __name__ == "__main__":
     main()
