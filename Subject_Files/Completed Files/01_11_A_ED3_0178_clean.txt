@@ -1,0 +1,260 @@
+Patient Care Timeline (11/17/2016 19:16 to 11/18/2016 06:33) 
+
+
+11/17/2016 Event 
+User 
+
+19:16  Patient arrived in Felicia Gaines 
+
+ED 
+19:16  19:16:33 
+
+Reg Travel 
+Screening 
+Patient expected 
+in ED 
+Infectious Disease Screening - Have you, your partner or a close 
+contact travelled outside the continental US: No 
+Felicia Gaines 
+Felicia Gaines 
+19:16:50  19:26:59 
+
+JHM ED Facility 
+Charge Start 
+Orders Placed Initiate Patient Triage, Assessment and Non Prescriber Initiated 
+Protocol Orders 
+Felicia Gaines 
+Christina Lynne 
+Catlett, MD 
+19:27 Triage Started Angela Keyes, 
+RN 
+19:27  19:28 
+
+Infectious Disease 
+Screening 
+Electronic Triage 
+Infectious Disease Screening - Have you, your partner or a close 
+contact travelled outside the continental US: No 
+Electronic Triage Level Recommendation - Electronic Triage: 
+Insufficient data in chart 
+Angela Keyes, 
+RN 
+User Epic 
+19:28 Data Other flowsheet entries - ETriage A: 0 ; ETriage IM: 0 ; ETriage SC: 
+0 ; Etriage Internal Parameters: M^43^4^16050002^^^^^ 
+User Epic 
+19:28 Vitals Assessment Angela Keyes, 
+RN 
+19:28 Vital Signs/Pain Vitals - Add BP, P, RR to auto-reset timer.: Yes ; BP: 108/58 
+mmHg ; BP Location: Left arm ; BP Method: Automatic ; Patient 
+Position: Sitting ; Heart Rate: 68 ; Resp: 18 ; SpO2: 95 % ; O2 
+Device: None-room air ; Temp: 35.7 °C (96.3 °F) ; Temp src: Oral 
+Pain Assessment - Pain Assessment: 0-10 ; Pain Score: 5 ; Pain 
+Angela Keyes, 
+RN 
+19:28 Barda Flu Study 
+Screening 
+Location: Generalized ; Pain Descriptors: Aching 
+Barda Flu Study Screening (Answer all Questions) - Cough, new or 
+increased in last 7 days?: No ; New Headache in last 7 days?: 
+Yes ; Fever (subjective) in the last 7 days?: No ; Temperature of 
+100.4 F (38 C) or greater?: No ; Xpert Flu Study Screening Score: 
+1 
+Angela Keyes, 
+RN 
+
+19:28 Custom Formula 
+Data 
+Relevant Labs and Vitals - Temp (in Celsius): 35.7 
+Vital Signs - Systolic Pressure: 108 ; Diastolic Pressure: 58 
+Angela Keyes, 
+RN 
+Other flowsheet entries - First Vitals Flag: 1 
+19:28:12 Chief Complaint 
+Filed 
+Angela Keyes, 
+RN 
+19:28:12 HopScore Trigger Angela Keyes, 
+RN 
+19:30 Electronic Triage Electronic Triage Level Recommendation - Electronic Triage: H3 User Epic 
+19:30 Data Other flowsheet entries - ETriage A: 23.14 ; ETriage IM: 0.26 ; User Epic 
+ETriage SC: 1.17 ; Etriage Internal Parameters: 
+M^43^4^16050002^108^68^18^95^96.3 
+19:30 Acuity/Designation Acuity/Designation - Patient Acuity: 3 Angela Keyes, 
+RN 
+19:30:21 Pain Assessment Angela Keyes, 
+RN 
+19:30:21 HopScore Trigger Angela Keyes, 
+RN 
+19:30:37 Triage Completed Angela Keyes, 
+RN 
+19:30:37 Adult Trigger 
+Reassess Vitals 
+Angela Keyes, 
+RN 
+19:30:37 Adult Trigger 
+Reassess Pain 
+Angela Keyes, 
+RN 
+19:37:46 JHM Patient To room IntC Charminque 
+roomed in ED Greer 
+
+19:41 ED Exam Started 
+19:37:46  Patient roomed in Charminque 
+
+ED Greer 
+Printed by PITTS, SETH [SPITTS3] at 12/6/2016 10:23:18 AM 
+
+
+Slabaugh, Christopher L (MR # JH75304563) 
+Encounter Date: 11/17/2016 
+
+19:41 Exam Started Exam started - Exam Started?: Exam started Julianna Joan 
+Jung, MD 
+19:46:17 Orders Placed naproxen (NAPROSYN) tablet 500 mg Julianna Joan 
+Jung, MD 
+19:46:40 XR Ordered XR CHEST PA AND LATERAL Julianna Joan 
+Jung, MD 
+19:46:40 Imaging Exam 
+Ordered 
+Julianna Joan 
+Jung, MD 
+19:46:40 Orders Placed XR Chest PA and Lateral Julianna Joan 
+Jung, MD 
+19:47 Designation Designation - Designation: FT Julianna Joan 
+Jung, MD 
+19:48:31 Orders New - naproxen (NAPROSYN) tablet 500 mg Melissa Davis 
+Acknowledged 
+19:52 Medication Given naproxen (NAPROSYN) tablet 500 mg - Dose: 500 mg ; Route: Melissa Davis 
+Oral ; Scheduled Time: 2007 
+19:55:29 JHM Patient From room IntC to room RecEx Charminque 
+transferred Greer 
+19:55:30 Patient transferred Charminque 
+Greer 
+20:15:04 Orders Modified XR Chest AP and Lateral (Comment: Modified from XR Chest PA Christina Lynne 
+and Lateral) Catlett, MD 
+20:15:04 XR Ordered XR CHEST AP AND LATERAL Kari L Burns 
+20:15:04 Imaging Exam Kari L Burns 
+Ordered 
+20:15:04 Orders XR Chest PA and Lateral Kari L Burns 
+Discontinued 
+20:31:14 Imaging Exam XR Chest AP and Lateral Kari L Burns 
+Started 
+20:31:35 Imaging Exam XR Chest AP and Lateral Kari L Burns 
+Ended 
+20:38:44 XRay Preliminary 
+Result 
+(Preliminary result) XR CHEST AP AND LATERAL Hannah 
+Stephanie 
+Recht, MD 
+20:38:52 Imaging 
+Preliminary Result 
+XR Chest AP and Lateral Jhm Rad 
+Results 
+Incoming 
+Interface 
+20:38:52 XRay Preliminary 
+Result 
+(Preliminary result) XR CHEST AP AND LATERAL Jhm Rad 
+Results 
+Incoming 
+Interface 
+20:39 Call for Treatment Call for Treatment - Tx Call: Call 1x Danielle Allen 
+20:42:33 Imaging 
+Preliminary Result 
+XR Chest AP and Lateral Jhm Rad 
+Results 
+Incoming 
+Interface 
+20:42:33 XRay Preliminary 
+Result 
+(Preliminary result) XR CHEST AP AND LATERAL Jhm Rad 
+Results 
+Incoming 
+Interface 
+20:53:43 XR Chest AP and No components filed Jhm Rad 
+Lateral Resulted Collected: 11/17/2016 20:35 Results 
+Last updated: 11/17/2016 20:55 Incoming 
+Status: Final result Interface 
+
+20:54 Call for Treatment Call for Treatment - Tx Call: Call 2x 
+Danielle Allen 
+20:53:45  XRay Preliminary (Preliminary result) XR CHEST AP AND LATERAL Elnasif 
+
+Result Arrayeh, MBBS 
+Printed by PITTS, SETH [SPITTS3] at 12/6/2016 10:23:18 AM 
+
+Julianna Joan 
+Jung, MD 
+19:41 Rapid Eval 
+Provider 
+Provider - Provider: JJJ Julianna Joan 
+Jung, MD 
+
+
+Slabaugh, Christopher L (MR # JH75304563) 
+Encounter Date: 11/17/2016 
+
+20:55:53  Xray Final Result (Final result) XR CHEST AP AND LATERAL Jhm Rad 
+
+Results 
+Incoming 
+Interface 
+20:58 Call for Treatment Call for Treatment - Tx Call: Pt Now Here Treasure 
+Tionne Kinsler 
+20:58:22 JHM Patient From room RecEx to room SA04 Treasure 
+transferred Tionne Kinsler 
+20:58:22 Patient transferred Treasure 
+Tionne Kinsler 
+21:01:05 Assign Attending Christina Lynne Catlett, MD assigned as Attending Christina Lynne 
+Catlett, MD 
+21:01:07 Assign Physician Christina Lynne 
+Catlett, MD 
+21:01:07 First Physician 
+Assigned 
+Christina Lynne 
+Catlett, MD 
+21:04 Designation Designation - Designation: ED Christina Lynne 
+Catlett, MD 
+21:05:16 Remove Attending Christina Lynne Catlett, MD removed as Attending Christina Lynne 
+Catlett, MD 
+21:21 Registration Miquael D Cox 
+Completed 
+21:35:20 JHM Patient From room SA04 to room RecEx Treasure 
+transferred Tionne Kinsler 
+21:35:20 Patient transferred Treasure 
+Tionne Kinsler 
+22:57:34 Orders 
+Acknowledged 
+New - Initiate Patient Triage, Assessment and Non Prescriber 
+Initiated Protocol Orders ; XR Chest PA and Lateral ; Modified -
+Meghan 
+Sheehan 
+XR Chest AP and Lateral (Comment: Modified from XR Chest PA 
+and Lateral) 
+22:58 Call for Treatment Call for Treatment - Tx Call: Call 1x Achianti N 
+McCalla 
+11/18/2016 Event User 
+02:22 Call for Call for Treatment - Tx Call: Call 2x Shawntrice J 
+Treatment Dunaway 
+
+04:03 Call for Call for Treatment - Tx Call: Call 3x Amanda D 
+Treatment Battle 
+06:33 ED AMA/LWBS 
+Disposition 
+ED Disposition set to Screened And Left Gwendolyn C 
+Sell, RN 
+Select 
+06:33 Disposition 
+Selected 
+Gwendolyn C 
+Sell, RN 
+06:33 JHM Patient Gwendolyn C 
+discharged Sell, RN 
+06:33:13 Patient Gwendolyn C 
+discharged Sell, RN 
+06:33:13 Biller IB Gwendolyn C 
+message sent Sell, RN 
+Printed by PITTS, SETH [SPITTS3] at 12/6/2016 10:23:18 AM 
+
+
